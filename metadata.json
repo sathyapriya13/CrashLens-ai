@@ -1,0 +1,6 @@
+{
+  "name": "CrashLens – AI Error Detection & Root Cause Analyzer",
+  "description": "Intelligent log file parser, anomaly detector, semantic RAG knowledge retrieval, and Gemini-powered root cause analysis engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
